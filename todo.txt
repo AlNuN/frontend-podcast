@@ -15,6 +15,7 @@ Possibilidade de usar tags
 imagem grande
 texto
 tags tanto para busca externa quanto interna
+* Editar estilos !!!
 
 - Barra lateral:
 feeds
