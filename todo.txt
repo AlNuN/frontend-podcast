@@ -1,0 +1,48 @@
+-*- Projeto -*- 
+-> Cabeçalho:
+- logo.png
+- banner de fundo
+- Menu:
+Início
+Sobre
+Contato
+
+-> Corpo:
+- Campo de busca:
+Possibilidade de usar tags
+
+- Cards com episódios:
+imagem grande
+texto
+tags tanto para busca externa quanto interna
+
+- Barra lateral:
+feeds
+redes sociais
+
+- Paginação
+
+
+-> Páginas 
+- Individual para cada podcast:
+ tags
+ Foto
+ Campo para streaming
+ Baixar mp3 e zip
+ Descrição
+ links
+ participantes
+ comentários
+
+- Contato:
+formulário de contato
+
+- Quem somos
+Fotos e texto sobre os hosts
+
+
+-> Rodapé:
+quem somos
+contato
+redes sociais
+

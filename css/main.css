@@ -1,0 +1,33 @@
+/* Geral
+----------------------------------------------*/
+body{
+    background: #000 url(../img/bg.png)
+}
+
+/* Cabeçalho
+----------------------------------------------*/
+header nav a{
+    padding-left: 10px;
+}
+
+.navbar-dark .navbar-toggler{
+    color: white;
+    border-color: white;
+} 
+
+.navbar-dark .navbar-nav .nav-link{
+    color: white;
+    font-weight: 700;
+    font-size: 1.2em;
+    margin: 0 10px;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: #4B4B4A;
+}
+
+/* Busca
+----------------------------------------------*/
+#busca{
+    padding: 10px 0;
+}
+
